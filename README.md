@@ -2,7 +2,7 @@
 
 Overview
 
-This project is a specialized blockchain-based platform for carbon impact accounting, specifically tailored for submission in the ETHGlobal Hackathon under the UNICEF track. The platform utilizes Ethereum blockchain technology, smart contracts, and various Web3 tools to provide a transparent, immutable, and verifiable system for recording and verifying carbon emissions and reductions.
+This project is a specialized blockchain-based platform for carbon impact accounting. The platform utilizes Ethereum blockchain technology, smart contracts, and various Web3 tools to provide a transparent, immutable, and verifiable system for recording and verifying carbon emissions and reductions.
 
 Objectives
 
