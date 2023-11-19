@@ -42,3 +42,21 @@ Regular Updates and Community Engagement: Maintain an active development cycle a
 Conclusion
 
 This Ethereum-based carbon accounting platform for the ETHGlobal Hackathon represents a groundbreaking approach to environmental accountability, blending cutting-edge blockchain technology with the need for transparent and verifiable carbon impact tracking. It's an ambitious project that not only aligns with UNICEF's sustainability goals but also pushes the envelope in blockchain application for social good.
+
+```bash
+npx create-react-app decarbtracker-frontend
+cd decarbtracker-frontend
+npm start
+```
+```bash
+npm install ipfs-http-client
+```
+
+```bash
+mkdir decarbtracker-backend
+cd decarbtracker-backend
+npm init -y
+npm install express cors
+```
+
+
